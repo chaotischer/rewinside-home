@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+main: tv.rewinside.home.HomeBukkitPlugin
+author: Chaotischer
+commands:
+  home:
